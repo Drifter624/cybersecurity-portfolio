@@ -1,4 +1,6 @@
 # 🔍 Write-Up: VulnHub Basic - [Nombre de la Máquina]
+![image](https://github.com/user-attachments/assets/4fb3495f-c08e-4bcf-a521-6219525d0928)
+
 
 📅 **Fecha:** 2024-03-01  
 🎯 **Objetivo:** Obtener acceso root a la máquina **VulnHub Basic** y documentar el proceso.  
