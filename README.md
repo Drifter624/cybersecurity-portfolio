@@ -26,9 +26,7 @@ Bienvenido a mi portfolio de **Ciberseguridad y Seguridad Informática**. Aquí 
 
 ## 📬 Contacto  
 Si quieres ponerte en contacto, puedes encontrarme en:  
-📧 **Email:** [mauricio.siri@estudiantes.utec.edu.uy](mailto:tuemail@example.com)  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/mauricio-siri-49b917b8/](https://linkedin.com/in/tuusuario)  
-🐙 **GitHub:** [https://github.com/Drifter624](https://github.com/tuusuario)  
+📧 **Email:** [mauri248@hotmail.com](mailto:tuemail@example.com)  
 
 🚀 *Este repositorio está en constante actualización. ¡Gracias por visitar mi portfolio de ciberseguridad!*  
 
