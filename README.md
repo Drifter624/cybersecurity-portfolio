@@ -10,7 +10,7 @@ Bienvenido a mi portfolio de **Ciberseguridad y Seguridad Informática**. Aquí 
 ✅ **Análisis de Logs** → Identificación de intentos de acceso sospechosos en servidores.  
 ✅ **Reportes de Seguridad** → Documentación de vulnerabilidades detectadas y mitigaciones.  
 
-## 📂 Proyectos Destacados  
+## 📂 Proyectos Destacados  (en construccion)
 🔹 **[Análisis de Seguridad con OWASP ZAP](#)** – Escaneo y reporte de vulnerabilidades en aplicaciones web.  
 🔹 **[Automatización de escaneos con Nmap](#)** – Script en Bash para detección de puertos abiertos y servicios.  
 🔹 **[Detección de intentos de login fallidos](#)** – Script en Python para monitorear logs y prevenir ataques de fuerza bruta.  
@@ -21,7 +21,6 @@ Bienvenido a mi portfolio de **Ciberseguridad y Seguridad Informática**. Aquí 
 - **Seguridad Defensiva:** Wazuh, Suricata, Snort.  
 - **Análisis de Logs:** Logwatch, Graylog.  
 
-📌 *Este repositorio está en constante actualización. Si tienes sugerencias o quieres colaborar, ¡contáctame!*  
 
 ---
 
