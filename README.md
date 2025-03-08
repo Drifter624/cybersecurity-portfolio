@@ -1,4 +1,5 @@
 # 🚀 Mauricio Siri - Cybersecurity Portfolio  
+![image](https://github.com/user-attachments/assets/3ceb4a70-8099-4f23-8f9f-1d02a5a59ea3)
 
 Bienvenido a mi portfolio de **Ciberseguridad y Seguridad Informática**. Aquí comparto proyectos y experimentos relacionados con **pentesting, automatización de seguridad y análisis de vulnerabilidades**.  
 
