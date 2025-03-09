@@ -28,5 +28,9 @@ Bienvenido a mi portfolio de **Ciberseguridad y Seguridad Informática**. Aquí 
 Si quieres ponerte en contacto, puedes encontrarme en:  
 📧 **Email:** [mauri248@hotmail.com](mailto:tuemail@example.com)  
 
+📢 Aviso Importante:
+
+Todo el material e información compartidos en este repositorio tienen fines exclusivamente educativos y prácticos, con el propósito de expandir el conocimiento en ciberseguridad. El uso indebido de esta información es responsabilidad de cada individuo. ⚠️🔐
+
 🚀 *Este repositorio está en constante actualización. ¡Gracias por visitar mi portfolio de ciberseguridad!*  
 
