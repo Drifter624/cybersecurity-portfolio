@@ -3,9 +3,9 @@
 Aquí encontrarás una recopilación de enlaces útiles en **español e inglés** para estudiar ciberseguridad, pentesting y desarrollo de exploits.  
 
 ## 📖 Links en Español  
-🔹 **[Guía de auto-estudio para la escritura de exploits - Fundación Sadosky](https://fundacionsadosky.org.ar/seguridad/)**  
+🔹 **[Guía de auto-estudio para la escritura de exploits - Fundación Sadosky](https://fundacion-sadosky.github.io/guia-escritura-exploits/)**  
 🔹 **[Web Security Checklist en español](https://websecurity.es/)** (Hoja de ruta ideal para Bug Bounty & Pentesting).  
-🔹 **[Artículos en Español en Exploit Database](https://www.exploit-db.com/) (Filtrados por idioma).**  
+🔹 **[Artículos en Español en Exploit Database](https://www.exploit-db.com/papers?language=spanish/) (Filtrados por idioma).**  
 
 ## 🌍 Links en Inglés  
 🔹 **[OWASP Top 10](https://owasp.org/www-project-top-ten/)** → Lista de las 10 vulnerabilidades más críticas en aplicaciones web.  
