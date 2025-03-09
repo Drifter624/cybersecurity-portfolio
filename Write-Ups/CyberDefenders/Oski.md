@@ -73,6 +73,7 @@ Este laboratorio de CyberDefenders, llamado **Oski**, consiste en analizar un ar
 - **Procedimiento**:
   - En el comando de autoeliminación observado en **ANY.RUN**, se utiliza el comando `timeout /t 5`, que hace que el malware espere 5 segundos antes de eliminarse.
 
+![image](https://github.com/user-attachments/assets/0e6b1305-491a-443f-8f21-c5b26891dc7f)
 
 
 ## Resumen del laboratorio
