@@ -2,26 +2,60 @@
 ![image](https://github.com/user-attachments/assets/3aca9152-472b-4000-a2e8-c31ca52fe35c)
 
 
-Bienvenido a mi portfolio de **Ciberseguridad y Seguridad Informática**. Aquí comparto proyectos y experimentos relacionados con **pentesting, automatización de seguridad y análisis de vulnerabilidades**.  
+🚀 Bienvenido a mi portfolio de ciberseguridad. Aquí encontrarás proyectos que demuestran mis habilidades en análisis de vulnerabilidades, automatización de seguridad y pruebas de penetración.  
 
-## 🔍 ¿Qué encontrarás aquí?  
-✅ **Pentesting Web** → Pruebas con **OWASP ZAP, Burp Suite y Nikto**.  
-✅ **Automatización de Seguridad** → Scripts en **Python y Bash** para escaneo y detección de amenazas.  
-✅ **Análisis de Logs** → Identificación de intentos de acceso sospechosos en servidores.  
-✅ **Reportes de Seguridad** → Documentación de vulnerabilidades detectadas y mitigaciones.  
+## 🔍 Sobre mí  
+Soy un *Licenciado en TICs* con experiencia en *infraestructura, redes y ciberseguridad*. Me apasiona la seguridad informática y la automatización de procesos defensivos y ofensivos.  
 
-## 📂 Proyectos Destacados  (en construccion)
-🔹 **[Análisis de Seguridad con OWASP ZAP](#)** – Escaneo y reporte de vulnerabilidades en aplicaciones web.  
-🔹 **[Automatización de escaneos con Nmap](#)** – Script en Bash para detección de puertos abiertos y servicios.  
-🔹 **[Detección de intentos de login fallidos](#)** – Script en Python para monitorear logs y prevenir ataques de fuerza bruta.  
+📌 *Áreas de especialización:*  
+- 🔥 *Pentesting y Análisis de Vulnerabilidades* (Nmap, Metasploit, OpenVAS)  
+- 🔄 *Automatización con Python* (escaneo de puertos, detección de ataques)  
+- 🌐 *Seguridad en redes y sistemas* (firewalls, hardening, SIEM)  
+- 🛠️ *Herramientas de seguridad ofensiva y defensiva*  
 
-## 🛠 Herramientas Utilizadas  
-- **Pentesting:** Nmap, OWASP ZAP, Burp Suite, Nikto.  
-- **Automatización:** Python, Bash, Shodan API, VirusTotal API.  
-- **Seguridad Defensiva:** Wazuh, Suricata, Snort.  
-- **Análisis de Logs:** Logwatch, Graylog.  
+---
+
+## 📂 Proyectos Destacados  
+
+### 🕵️‍♂️ 1. *Escaneo de Vulnerabilidades con Nmap y Python*  
+*Descripción:* Script en Python que utiliza Nmap para escanear redes en busca de puertos abiertos y vulnerabilidades comunes.  
+📎 *Repositorio:* [🔗 Ver código](#)  
+
+*🛠️ Tecnologías:* Python, Nmap, Bash  
+📌 *Conceptos clave:* Detección de puertos abiertos, escaneo de servicios, automatización de reportes.  
+
+---
+
+### 🛡️ 2. *Sistema de Detección de Intrusos con Logs de Linux*  
+*Descripción:* Monitoreo de logs en Linux para detectar intentos de acceso sospechosos y generar alertas en tiempo real.  
+📎 *Repositorio:* [🔗 Ver código](#)  
+
+*🛠️ Tecnologías:* Python, RegEx, Fail2Ban  
+📌 *Conceptos clave:* Análisis de logs, detección de ataques de fuerza bruta, automatización de alertas.  
+
+---
+
+### 🎭 3. *Simulación de Ataques de Fuerza Bruta en SSH*  
+*Descripción:* Pruebas de pentesting sobre servidores SSH, evaluando configuraciones seguras y generando contramedidas.  
+📎 *Repositorio:* [🔗 Ver código](#)  
+
+*🛠️ Tecnologías:* Hydra, Kali Linux, SSH  
+📌 *Conceptos clave:* Ethical hacking, pruebas de fuerza bruta, autenticación segura.  
+
+---
+
+## 🎯 ¿Por qué este portfolio?  
+✔️ *Demuestra habilidades prácticas en ciberseguridad*.  
+✔️ *Incluye proyectos con código funcional y documentado*.  
+✔️ *Apoya mi crecimiento profesional en seguridad informática*.  
 
 
+---
+
+## *🔥 Próximos pasos*  
+🚀 *Añadir documentación más detallada a cada proyecto*.  
+🚀 *Publicar reportes de análisis de vulnerabilidades en PDF*.  
+🚀 *Integrar herramientas de CI/CD para automatizar seguridad*.
 ---
 
 ## 📬 Contacto  
