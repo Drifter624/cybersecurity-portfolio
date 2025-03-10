@@ -52,12 +52,6 @@ Soy un *Licenciado en TICs* con experiencia en *infraestructura, redes y ciberse
 
 ---
 
-## *🔥 Próximos pasos*  
-🚀 *Añadir documentación más detallada a cada proyecto*.  
-🚀 *Publicar reportes de análisis de vulnerabilidades en PDF*.  
-🚀 *Integrar herramientas de CI/CD para automatizar seguridad*.
----
-
 ## 📬 Contacto  
 Si quieres ponerte en contacto, puedes encontrarme en:  
 📧 **Email:** [mauri248@hotmail.com](mailto:tuemail@example.com)  
