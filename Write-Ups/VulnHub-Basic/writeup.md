@@ -1,4 +1,4 @@
-# 🔍 Write-Up: VulnHub Basic - [Nombre de la Máquina]
+# 🔍 Write-Up: VulnHub Basic - 
 ![image](https://github.com/user-attachments/assets/4fb3495f-c08e-4bcf-a521-6219525d0928)
 
 
@@ -63,10 +63,6 @@ Ejecutamos la escalada y obtenemos **acceso root.** 🎉
 - Se recomienda actualizar los permisos de usuario y proteger la base de datos con parametrización de consultas.  
 - ¡Gran práctica para pentesting y CTFs! 🔥  
 
----
-📂 **Repositorio:** [Cybersecurity Portfolio](https://github.com/Drifter624/cybersecurity-portfolio)  
-✉️ **Contacto:** [tuemail@example.com](mailto:tuemail@example.com)  
-```
 
 ---
 
