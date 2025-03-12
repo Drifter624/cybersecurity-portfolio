@@ -38,3 +38,19 @@ El análisis forense digital requiere procedimientos estrictos y el uso de softw
 ![image](https://github.com/user-attachments/assets/f8dc1b72-c837-46e3-a96e-83a1327989bb)
 
 
+### 🛠️ **Autopsy - Herramienta de Informática Forense**  
+
+**Autopsy** es una poderosa herramienta de código abierto utilizada en análisis forense digital para la investigación de discos y recuperación de datos.  
+
+🔹 **Características Principales:**  
+✅ **Análisis de Discos:** Examina discos duros, USB y tarjetas de memoria para recuperar archivos eliminados.  
+✅ **Interfaz Intuitiva:** Su entorno gráfico facilita la navegación, ideal para expertos y principiantes.  
+✅ **Análisis de Memoria:** Permite examinar volcados de memoria en tiempo real.  
+✅ **Generación de Informes:** Crea reportes detallados sobre las investigaciones realizadas.  
+✅ **Soporte Multiusuario:** Permite trabajar en investigaciones con varios analistas forenses.  
+
+📂 **Disponible para:** Windows, Linux y macOS.  
+🔗 **Descargar:** [Autopsy](https://www.autopsy.com/download/)  
+
+🚀 Una herramienta esencial para el análisis forense digital y la ciberseguridad.
+
