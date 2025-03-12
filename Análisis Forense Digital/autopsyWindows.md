@@ -34,8 +34,9 @@ El análisis forense digital requiere procedimientos estrictos y el uso de softw
 
 🛡️ La informática forense es clave para investigar delitos digitales y proteger la seguridad cibernética. 🚀
 
+![image](https://github.com/user-attachments/assets/741b19a6-07f4-45a9-b02e-b8e6e5197e51)
 
-![image](https://github.com/user-attachments/assets/f8dc1b72-c837-46e3-a96e-83a1327989bb)
+
 
 
 ### 🛠️ **Autopsy - Herramienta de Informática Forense**  
